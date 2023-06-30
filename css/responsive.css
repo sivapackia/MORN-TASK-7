@@ -1,0 +1,21 @@
+
+@media(min-width:300px) and (max-width:576px){
+	
+	.kannan{
+		width:100%!important;
+	}
+	
+	#font{
+	font-size:50px!important;
+}
+
+
+}
+
+@media(min-width:768px) and (max-width:992px){
+
+.kannan{
+		width:100%!important;
+	}
+
+}
